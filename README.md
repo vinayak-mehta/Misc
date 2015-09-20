@@ -1,6 +1,7 @@
 Misc
 ====
 
-* `factorial.py`: To generate the factorial of a given number.
-* `fibo.py`: To generate the fibonacci series.
-* `WhatsAppMessageParser.py`: To strip unwanted metadata from WhatsApp messages.
+* `factorial.py`: Generates the factorial of a given number.
+* `fibo.py`: Generates the fibonacci series.
+* `WhatsAppMessageParser.py`: Strips unwanted metadata from WhatsApp messages.
+* `FindVideoDuration.sh`: Finds the sum of durations of all videos in the present directory.
